@@ -1,0 +1,5 @@
+git config --global user.name "mokizplay7-blip"
+git config --global user.email "mokizplay7@gmail.com"
+UI Product Sprint
+Розробка інтерфейсу користувача за ТЗ у Figma
+https://www.figma.com/design/nFZLWZ27nveAV1fRodzRX2/BAZA-R_Rozetka?node-id=0-1&p=f
